@@ -30,7 +30,7 @@ Make sure you have Node.js installed on your machine.
 git clone https://github.com/HarmanSing79/passwordManager1
 ```
 
-2.Navigate to the project directory.
+2.Navigate to the project directory. <br>
 3.Install Dependencies:
 ```
 npm install
